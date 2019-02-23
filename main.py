@@ -1,0 +1,6 @@
+a= int(input("Digite el número"))
+c= int(input("Digite el número"))
+producto= (a*c)
+doble=(a*2)
+print("El producto de los numeros es",producto,)
+print("El doble del primer número es",doble,)
